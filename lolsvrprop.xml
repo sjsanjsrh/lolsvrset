@@ -1,1 +1,20 @@
+<loc>
+ÇÑ±¹=kr
+<loc/>
 
+
+<kr>
+host=prod.kr.lol.riotgames.com,prod.kr.lol.riotgames.com
+xmpp_server_url=chat.kr.lol.riotgames.com
+lq_uri=https://lq.kr.lol.riotgames.com
+rssStatusURLs=null
+regionTag=kr
+lobbyLandingURL=https://frontpage.kr.leagueoflegends.com/ko_KR/client/landing
+featuredGamesURL=http://spectator.kr.lol.riotgames.com:80/observer-mode/rest/featured
+storyPageURL=http://www.leagueoflegends.co.kr/launcher/journal.php
+ladderURL=http://www.leagueoflegends.co.kr
+platformId=KR
+ekg_uri=https://ekg.riotgames.com
+riotDataServiceDataSendProbability=1.0
+
+<kr/>
