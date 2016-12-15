@@ -1,4 +1,4 @@
-<loc>
+﻿<loc>
 kr=한국
 na=미국
 ru=러시아
@@ -64,7 +64,7 @@ host=prod.oc1.lol.riotgames.com,prod.oc1.lol.riotgames.com
 xmpp_server_url=chat.oc1.lol.riotgames.com
 ladderURL=http://www.leagueoflegends.com/ladders
 storyPageURL=http://www.leagueoflegends.com/story
-lq_uri=https://lq.oc1.lol.riotgames.com
+lq_uri=https://lq.oc1.lol.riotgames.com 
 ekg_uri=https://ekg.riotgames.com
 rssStatusURLs=null
 lobbyLandingURL=http://frontpage.oce.leagueoflegends.com/$localeCode/client/landing
@@ -86,7 +86,7 @@ regionTag=br
 lobbyLandingURL=http://frontpage.br.leagueoflegends.com/$localeCode/client/landing
 ladderURL= http://competitive.br.leagueoflegends.com/pt-br/ladders
 loadModuleChampionDetail=true
-featuredGamesURL=http://spectator.br.lol.riotgames.com:80/observer-mode/rest/featured
+featuredGamesURL=http://spectator.br.lol.riotgames.com:80/observer-mode/rest/featured 
 platformId=BR1
 ekg_uri=https://ekg.riotgames.com
 riotDataServiceDataSendProbability=1.0
@@ -135,7 +135,7 @@ regionTag=tr
 lobbyLandingURL=http://frontpage.tr.leagueoflegends.com/$localeCode/client/landing
 ladderURL=http://competitive.tr.leagueoflegends.com/tr-tr/ladders
 loadModuleChampionDetail=true
-featuredGamesURL=http://spectator.tr.lol.riotgames.com:80/observer-mode/rest/featured
+featuredGamesURL=http://spectator.tr.lol.riotgames.com:80/observer-mode/rest/featured 
 platformId=TR1
 ekg_uri=https://ekg.riotgames.com
 riotDataServiceDataSendProbability=1.0
@@ -146,14 +146,14 @@ log_mac=true
 <la1>
 host=prod.la1.lol.riotgames.com,prod.la1.lol.riotgames.com
 xmpp_server_url=chat.la1.lol.riotgames.com
-lq_uri=https://lq.la1.lol.riotgames.com
+lq_uri=https://lq.la1.lol.riotgames.com 
 storyPageURL=http://lan.leagueoflegends.com/story
 rssStatusURLs=null
 regionTag=la1
 lobbyLandingURL=http://frontpage.lan.leagueoflegends.com/$localeCode/client/landing
 ladderURL=http://www.leagueoflegends.com/ladders
 loadModuleChampionDetail=true
-featuredGamesURL=http://spectator.la1.lol.riotgames.com:80/observer-mode/rest/featured
+featuredGamesURL=http://spectator.la1.lol.riotgames.com:80/observer-mode/rest/featured 
 platformId=LA1
 ekg_uri=https://ekg.riotgames.com
 riotDataServiceDataSendProbability=1.0
@@ -163,14 +163,14 @@ riotDataServiceDataSendProbability=1.0
 <la2>
 host=prod.la2.lol.riotgames.com,prod.la2.lol.riotgames.com
 xmpp_server_url=chat.la2.lol.riotgames.com
-lq_uri=https://lq.la2.lol.riotgames.com
+lq_uri=https://lq.la2.lol.riotgames.com 
 storyPageURL=http://las.leagueoflegends.com/story
 rssStatusURLs=null
 regionTag=la2
 lobbyLandingURL=http://frontpage.las.leagueoflegends.com/es_AR/client/landing
 ladderURL=http://www.leagueoflegends.com/ladders
 loadModuleChampionDetail=true
-featuredGamesURL=http://spectator.la2.lol.riotgames.com:80/observer-mode/rest/featured
+featuredGamesURL=http://spectator.la2.lol.riotgames.com:80/observer-mode/rest/featured 
 platformId=LA2
 ekg_uri=https://ekg.riotgames.com
 riotDataServiceDataSendProbability=1.0
@@ -205,7 +205,7 @@ lobbyLandingURL=http://lol.garena.com/landing.php
 ladderURL=http://lol.garena.com/ladders
 helpURL=http://lol.garena.com/support
 
-lq_uri=https://lq.lol.garenanow.com
+lq_uri=https://lq.lol.garenanow.com 
 </ase>
 
 
