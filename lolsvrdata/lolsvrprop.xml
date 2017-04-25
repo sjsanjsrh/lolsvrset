@@ -1,4 +1,4 @@
-﻿<loc>
+<loc>
 kr=한국
 na=북미
 jp=일본
@@ -6,6 +6,9 @@ ru=러시아
 oc1=호주
 eune=동유럽
 euw=북유럽
+tai=ⓖ대만 ⓖ는 가레나 서버
+vn=ⓖ배트남
+sea=ⓖ동남아
 </loc>
 
 
@@ -61,7 +64,7 @@ host=prod.oc1.lol.riotgames.com,prod.oc1.lol.riotgames.com
 xmpp_server_url=chat.oc1.lol.riotgames.com
 ladderURL=http://www.leagueoflegends.com/ladders
 storyPageURL=http://www.leagueoflegends.com/story
-lq_uri=https://lqak.oc1.lol.riotgames.com 
+lq_uri=https://lqak.oc1.lol.riotgames.com
 ekg_uri=https://ekg.riotgames.com
 rssStatusURLs=null
 lobbyLandingURL=https://frontpage.oce.leagueoflegends.com/$localeCode/client/landing
@@ -120,3 +123,49 @@ ekg_uri=https://ekg.riotgames.com
 riotDataServiceDataSendProbability=1.0
 platformId=EUW1
 </euw>
+
+
+<tai>
+host=prodtw.lol.garenanow.com
+xmpp_server_url=chattw.lol.garenanow.com
+xmpp_accept_self_signed_cert=true
+startChat=true
+storeEnabled=true
+enableTutorialGame=true
+lobbyLandingURL=http://lol.garena.tw/pvpnet_landing
+ladderURL=http://lol.garena.tw/ladders
+helpURL=http://lol.garena.tw
+lq_uri=https://loginqueuetw.lol.garenanow.com
+storyPageURL=http://lol.garena.tw/story/index.php?game_box=true
+loadModuleChampionDetail=true
+</tai>
+
+
+<vn>
+host=prodvn.lol.garenanow.com
+xmpp_server_url=chatvn.lol.garenanow.com
+xmpp_accept_self_signed_cert=true
+startChat=true
+storeEnabled=true
+enableTutorialGame=true
+lobbyLandingURL=http://lol.garena.com/landing.php
+ladderURL=http://lienminh.garena.vn/
+helpURL=http://lienminh.garena.vn/support
+lq_uri=https://lqvn.lol.garenanow.com
+storyPageURL=http://lienminh.garena.vn/
+loadModuleChampionDetail=true
+</vn>
+
+
+<sea>
+host=prod.lol.garenanow.com
+xmpp_server_url=chat.lol.garenanow.com
+xmpp_accept_self_signed_cert=true
+startChat=true
+storeEnabled=true
+enableTutorialGame=true
+lobbyLandingURL=http://lol.garena.com/landing.php
+ladderURL=http://lol.garena.com/ladders
+helpURL=http://lol.garena.com/support
+lq_uri=https://lq.lol.garenanow.com
+</sea>
